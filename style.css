@@ -1,4 +1,20 @@
 body{
-    background : purple; 
-    color: pink;
+    background : rgb(235, 120, 235); 
+    color: rgb(204, 34, 63);
+}
+
+section {
+    background-color: rgb(216, 48, 76) (267, 745, 879);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 20px;
 }
