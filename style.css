@@ -2,7 +2,7 @@ body {
     background : rgb(235, 120, 235); 
     color: rgb(204, 34, 63);
     margin : 0px ;[
-    font-family: "Poppins", sans-serif;
+    font-family: "Oswald", sans-serif;
 } 
 
 header {
@@ -32,7 +32,7 @@ p {
     font-size: 20px;
 }
 
-.categoria-videos{
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
