@@ -1,59 +1,59 @@
 body {
-    background : rgb(235, 120, 235); 
-    color: rgb(7, 22, 16);
-    margin : 0px ;[
-    font-family: "Oswald", sans-serif;
-} 
-
-header {
-    border-bottom: solid 2px rgb(188, 66, 212);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(76, 35, 190)
-}
-
-section {
-    background-color: rgb(255, 0, 221);
+    background: black;
+    color: white;
+    margin: opx;
+    font-family:"permanent+marker", sans-serif;
+    }
+    
+    header{
+       border-bottom: solid 2px rgb(0, 0, 0);
+       padding: 20px;
+       font-size: 32px;
+    color: rgb(255, 0, 0);
+    }
+    
+    section {
+    background-color: rgb(119, 0, 247);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-}
-
-.chamada-texto {
+    }
+    
+    .chamada-texto {
     margin-right: 20px;
-}
-
-h1{
-    margin-right: 40px;
-}
-
-p {
+    }
+    
+    
+    h1 {
+    font-size: 40px;
+    }
+    p{
     font-size: 20px;
-}
-
-.categoria-videos {
+    }
+    
+    .categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
-}
-
-.categoria {
+    }
+    
+    .categoria {
     padding-left: 20px;
     padding-right: 20px ;
     margin-top: 50px;
-}
-
-.categoria-videos img {
-    opacity: 0.5;
+    }
+    
+    .categoria-videos img {
+    opacity: 0,5;
     height: 200px;
-}
-
-.categoria-videos img:hover {
-    opacity: 1.0;
-    border: 5px solid plum;
-}
-
-.categoria h2 {
-    color: rgb(236, 71, 209);
-}
+    }
+    
+    .categoria-videos img:hover {
+    opacity: 1,0;
+    border: 5px solid black;
+    }
+    
+    .categoria h2 {
+    color: rgb(42, 122, 228)
+    }
